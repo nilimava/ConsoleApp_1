@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
+Console.Writeline("Hello GitHub");
             Class1 obj = new Class1();
         }
     }
